@@ -8,7 +8,7 @@
 * ChatGPT
 
 ## 🧐 Processo de Criação
-O vídeo foi criado na IA Synthesia, onde foi configurado o ambiente e o avatar a ser utilizado no vídeo, além do idioma Português (Brasi). <br>
+O vídeo foi criado na IA Synthesia, onde foi configurado o ambiente e o avatar a ser utilizado no, além do idioma Português (Brasi). <br>
 No ChatGPT foi gerado o roteiro de conteúdo a ser abordado no vídeo pelo avatar. Que então foi devidamente implementado e por fim, gerado o vídeo.
 
 ## 🚀 Resultados
